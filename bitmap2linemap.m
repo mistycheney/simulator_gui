@@ -1,0 +1,1 @@
+lines = extract_line_ransac(cloud);
